@@ -1,4 +1,4 @@
-## How to mysql password?
+## How to change mysql password?
 1. Find mysql config file 'my.cnf' 
 2. Add 'skip-grant-tables' uder [mysqld]
 3. Restart Mysql
